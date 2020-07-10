@@ -1,8 +1,8 @@
-# https://github.com/Asim02/Black_Tiger
+# https://github.com/Ajijul123a/Black_Tiger.git
 # cd Black_Tiger
 
 
 
 # chmod +x *
 # ls
-# python2 VA.py
+# python2 Jibonvi.py
